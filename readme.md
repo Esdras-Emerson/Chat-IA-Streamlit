@@ -19,7 +19,8 @@ git clone https://github.com/Esdras-Emerson/Chat-IA-Streamlit.git
 cd Chat-IA-Streamlit
 
 ### 2. Crie e ative um ambiente virtual
-bash
+
+```bash
 Copiar
 Editar
 python -m venv .venv
@@ -27,20 +28,24 @@ source .venv/bin/activate  # Linux/macOS
 .venv\Scripts\activate     # Windows
 
 ### 3. Instale as dependências
-bash
+
+```bash
 Copiar
 Editar
 pip install -r requirements.txt
 Certifique-se de que o arquivo utils.py esteja presente na raiz, contendo as funções cria_chain_conversa e folder_files.
 
 ### 4. Execute a aplicação
-bash
+
+```bash
 Copiar
 Editar
 streamlit run app.py
 🔐 Usuários cadastrados (exemplo)
 Usuário 	Senha
 alta cupula	pergunteaouniverso
+
+```bash
 
 📂 Estrutura esperada do projeto
 Copiar
