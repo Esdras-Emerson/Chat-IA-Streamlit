@@ -1,0 +1,12 @@
+credentials:
+  usernames:
+    alta:
+      name: alta cupula
+      password: $2b$12$Obv/dvCOOCdKbcIj5c7m2.npNJzjM2X4hLVzHt9TViFvOkdAcz9qW
+    joao:
+      name: pergunteaouni
+      password: $2b$12$g4kz9WIms7q0D6s5TzozIesXDNJ6T9pNG4mIRXbrEhZ1l46r2M7HG
+cookie:
+  name: meu_app_cookie
+  key: uma_chave_secreta_aleatoria
+  expiry_days: 1
